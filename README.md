@@ -54,6 +54,12 @@ The primary objectives of this project are:
 
 **Dataset Name:** Favorita Grocery Sales Forecasting
 
+
+Due to GitHub file size limitations, the raw dataset is not included in this repository.
+
+You can download the dataset from Kaggle:
+
+https://www.kaggle.com/competitions/favorita-grocery-sales-forecasting/data
 This project uses the **Favorita Grocery Sales Forecasting** dataset, which contains historical sales transactions from **Corporación Favorita**, one of the largest supermarket chains in Ecuador.
 
 The dataset consists of approximately **1 million sales records** and combines multiple business datasets to perform demand forecasting and retail sales analysis.
